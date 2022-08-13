@@ -9,7 +9,7 @@ export default function HeroSection() {
       </div>
       <div className='lg:grid lg:grid-cols-2 lg:h-screen'>
         <div className='background bg-cover bg-center object-cover pt-[46px] pl-[16px] lg:pl-[56px] pr-[17px] lg:pt-32'>
-          <div className='lg:pt-4' data-aos="fade-right" data-aos-duration="2000">
+          <div className='lg:pt-4 flex justify-center items-center' data-aos="fade-right" data-aos-duration="2000">
             <h1 className='oxanium text-[38.76px] lg:text-[70px] leading-[62px] lg:leading-[78px] font-[700] text-center lg:text-left text-[#F5FBF2]'>Explore, Buy and Sell the <span className='text-[#FFCE4E]'>Best NFTs!</span></h1>
           </div>
           {/* Hero Section Buttons Start */}
