@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');
+.worksans{
+    font-family: 'Work Sans', sans-serif;
+}
+.oxanium{
+    font-family: 'Oxanium', cursive;
+}
+.background{
+    background: linear-gradient(rgba(22, 9, 27, 1), rgba(22, 9,27, 0.7)), url("/images/Patern.png");    
+}
+.cardbg{
+    background-image: url("/images/cardbg.svg");
+    background-size: cover;
+}
+
